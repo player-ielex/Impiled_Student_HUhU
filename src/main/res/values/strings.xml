@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Impiled Students</string>
+    <string name="project_description"> An ICT 2A Application Project For this Second Semester</string>
+
+    <string name="book">Read, Learn and Be Motivate to the books you read</string>
+    <string name="bulletin">Be Updated to the Announcement inside your school</string>
+    <string name="rewards">Look and Be Motivated to the rewards </string>
+</resources>
